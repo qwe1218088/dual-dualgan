@@ -19,7 +19,7 @@
 * clone this repo:
 
 ```
-git clone https://github.com/duxingren14/DualGAN.git
+git clone https://github.com/qwe1218088/dual-dualgan.git
 
 ```
 
