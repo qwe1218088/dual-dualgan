@@ -31,7 +31,7 @@ or
 
 ```
 
-* train the model:
+* train the model（Only verification can ignore this step）:
 
 ```
 python train.py
