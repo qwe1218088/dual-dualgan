@@ -32,7 +32,6 @@ python train.py
 
 ```
 
-```
 * test the model:
 
 ```
