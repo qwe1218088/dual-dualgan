@@ -27,7 +27,6 @@ git clone https://github.com/qwe1218088/dual-dualgan.git
 
 ```
 https://1drv.ms/u/s!AiksSGreFFxDk0FAIm_TaKa3YY9x?e=JsX1YG
-or
 
 ```
 
